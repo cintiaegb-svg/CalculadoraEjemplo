@@ -81,7 +81,7 @@ public class CalculadoraEjemplo {
      */
     public static void main(String[] args) {
 
-        CalculadoraEjemplo calc = new CalculadoraEjemplo(10, 5);
+        CalculadoraEjemplo calc = new CalculadoraEjemplo(20, 4);
 
         System.out.println("Suma: " + calc.suma());
         System.out.println("Resta: " + calc.resta());
